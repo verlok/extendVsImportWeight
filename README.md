@@ -4,38 +4,179 @@ Compares the final CSS weight when using extend vs include, one rule vs many rul
 
 ## What it does
 
-This repo just compares extend vs import, in both cases: single CSS rule and many CSS rules
+This repo compares extend vs import, in both cases: single CSS rule and many CSS rules
 
-* Using `@extend` of a single CSS rule mixin --> `extendOneRule.scss`
-* Using `@extend` of a multiple CSS rules mixin --> `extendMultipleRules.scss`
-* Using `@include` of a single CSS rule mixin --> `includeOneRule.scss`
-* Using `@include` of a multiple CSS rules mixin --> `includeMultipleRules.scss`
+* Using `@extend` of a single CSS rule --> `extendSingleRule.scss`
+* Using `@extend` of few CSS rules --> `extendFewRules.scss`
+* Using `@extend` of many CSS rules --> `extendManyRules.scss`
+* Using `@include` of a single CSS rule mixin --> `includeSingleRule.scss`
+* Using `@include` of a few CSS rules mixin --> `includeFewRules.scss`
+* Using `@include` of a many CSS rules mixin --> `includeManyRules.scss`
+
+### `extendSingleRule.scss`
+
+```SCSS
+%floatMeLeft {
+	float: left;
+}
+
+.one {
+	@extend %floatMeLeft;
+}
+
+// ...
+
+.onehundred {
+	@extend %floatMeLeft;
+}
+```
+
+### `extendFewRules.scss`
+
+```SCSS
+%microClearfix {
+	&:before,
+	&:after {
+		content: " ";
+		display: table;
+	}
+
+	&:after {
+		clear: both;
+	}
+}
+
+.one {
+	@extend %microClearfix;
+}
+
+// ...
+
+.onehundred {
+	@extend %floatMeLeft;
+}
+```
+
+
+### `extendManyRules.scss`
+
+```SCSS
+%myButton {
+	background-color: black;
+	color: white;
+	padding: 1em;
+	margin: 0;
+	display: block;
+	border-radius: 2px;
+	text-shadow: 0 0 2px rgba(0,0,0,.8);
+	box-shadow: 0 0 2px rgba(0,0,0,.2);
+	&:hover {
+        color: black;
+        background-color: white;
+    }
+}
+
+.one {
+	@extend %myButton;
+}
+
+// ...
+
+.onehundred {
+	@extend %myButton;
+}
+```
+
+### `includeSingleRule.scss`
+
+```SCSS
+@mixin floatMeLeft {
+	float: left;
+}
+
+.one {
+	@include floatMeLeft;
+}
+
+// ...
+
+.onehundred {
+	@include floatMeLeft;
+}
+```
+
+### `includeFewRules.scss`
+
+```SCSS
+@mixin microClearfix {
+	&:before,
+	&:after {
+		content: " ";
+		display: table;
+	}
+
+	&:after {
+		clear: both;
+	}
+}
+
+.one {
+	@include microClearfix;
+}
+
+// ...
+
+.onehundred {
+	@include microClearfix;
+}
+```
+
+### `includeManyRules.scss`
+
+```SCSS
+@mixin myButton {
+	background-color: black;
+	color: white;
+	padding: 1em;
+	margin: 0;
+	display: block;
+	border-radius: 2px;
+	text-shadow: 0 0 2px rgba(0,0,0,.8);
+	box-shadow: 0 0 2px rgba(0,0,0,.2);
+	&:hover {
+	    color: black;
+	    background-color: white;
+	}
+}
+
+.one {
+	@include myButton;
+}
+
+// ...
+
+.onehundred {
+	@include myButton;
+}
+```
 
 ## What is the result
 
-### CSS file size
+### Single rule
 
-#### Multiple rules
+* `extendSingleRule.css` --> 1.182 bytes (360 bytes after GZip)
+* `includeSingleRule.css` --> 3.072 bytes (408 bytes bytes after GZip)
 
-* `extendMultipleRules.css` --> 1.350 bytes
-* `includeMultipleRules.css` --> 19.872 bytes
+### Few rules
 
-#### Single rule
+* `extendFewRules.css` --> 5.427 bytes (669 bytes after GZip)
+* `includeFewRules.css` --> 10.720 bytes (1.199 bytes after GZip)
 
-* `extendOneRule.css` --> 1.182 bytes
-* `includeOneRule.css` --> 3.072 bytes
+### Many rules
 
-### CSS file size after GZip
+* `extendManyRules.css` --> 3.152 bytes (759 bytes after GZip)
+* `includeManyRules.css` --> 25.946 bytes (1.015 bytes after GZip)
 
-#### Multiple rules
-
-* `extendMultipleRules.css.gz` --> 462 bytes
-* `includeMultipleRules.css.gz` --> 595 bytes
-
-#### Single rule
-
-* `extendOneRule.css.gz` --> 357 bytes
-* `includeOneRule.css.gz` --> 405 bytes
 
 ## Conclusion
 

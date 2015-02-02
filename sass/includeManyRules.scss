@@ -1,0 +1,414 @@
+@mixin myButton {
+	background-color: black;
+	color: white;
+	padding: 1em;
+	margin: 0;
+	display: block;
+	border-radius: 2px;
+	text-shadow: 0 0 2px rgba(0, 0, 0, .8);
+	box-shadow: 0 0 2px rgba(0, 0, 0, .2);
+	&:hover {
+		color: black;
+		background-color: white;
+	}
+}
+
+.one {
+	@include myButton;
+}
+
+.two {
+	@include myButton;
+}
+
+.three {
+	@include myButton;
+}
+
+.four {
+	@include myButton;
+}
+
+.five {
+	@include myButton;
+}
+
+.six {
+	@include myButton;
+}
+
+.seven {
+	@include myButton;
+}
+
+.eight {
+	@include myButton;
+}
+
+.nine {
+	@include myButton;
+}
+
+.ten {
+	@include myButton;
+}
+
+.eleven {
+	@include myButton;
+}
+
+.twelve {
+	@include myButton;
+}
+
+.thirteen {
+	@include myButton;
+}
+
+.fourteen {
+	@include myButton;
+}
+
+.fifteen {
+	@include myButton;
+}
+
+.sixteen {
+	@include myButton;
+}
+
+.seventeen {
+	@include myButton;
+}
+
+.eighteen {
+	@include myButton;
+}
+
+.nineteen {
+	@include myButton;
+}
+
+.twelve {
+	@include myButton;
+}
+
+.twentyone {
+	@include myButton;
+}
+
+.twentytwo {
+	@include myButton;
+}
+
+.twentythree {
+	@include myButton;
+}
+
+.twentyfour {
+	@include myButton;
+}
+
+.twentyfive {
+	@include myButton;
+}
+
+.twentysix {
+	@include myButton;
+}
+
+.twentyseven {
+	@include myButton;
+}
+
+.twentyeight {
+	@include myButton;
+}
+
+.twentynine {
+	@include myButton;
+}
+
+.thirty {
+	@include myButton;
+}
+
+.thirtyone {
+	@include myButton;
+}
+
+.thirtytwo {
+	@include myButton;
+}
+
+.thirtythree {
+	@include myButton;
+}
+
+.thirtyfour {
+	@include myButton;
+}
+
+.thirtyfive {
+	@include myButton;
+}
+
+.thirtysix {
+	@include myButton;
+}
+
+.thirtyseven {
+	@include myButton;
+}
+
+.thirtyeight {
+	@include myButton;
+}
+
+.thirtynine {
+	@include myButton;
+}
+
+.fourty {
+	@include myButton;
+}
+
+.fourtyone {
+	@include myButton;
+}
+
+.fourtytwo {
+	@include myButton;
+}
+
+.fourtythree {
+	@include myButton;
+}
+
+.fourtyfour {
+	@include myButton;
+}
+
+.fourtyfive {
+	@include myButton;
+}
+
+.fourtysix {
+	@include myButton;
+}
+
+.fourtyseven {
+	@include myButton;
+}
+
+.fourtyeight {
+	@include myButton;
+}
+
+.fourtynine {
+	@include myButton;
+}
+
+.fifty {
+	@include myButton;
+}
+
+.fiftyone {
+	@include myButton;
+}
+
+.fiftytwo {
+	@include myButton;
+}
+
+.fiftythree {
+	@include myButton;
+}
+
+.fiftyfour {
+	@include myButton;
+}
+
+.fiftyfive {
+	@include myButton;
+}
+
+.fiftysix {
+	@include myButton;
+}
+
+.fiftyseven {
+	@include myButton;
+}
+
+.fiftyeight {
+	@include myButton;
+}
+
+.fiftynine {
+	@include myButton;
+}
+
+.sixty {
+	@include myButton;
+}
+
+.sixtyone {
+	@include myButton;
+}
+
+.sixtytwo {
+	@include myButton;
+}
+
+.sixtythree {
+	@include myButton;
+}
+
+.sixtyfour {
+	@include myButton;
+}
+
+.sixtyfive {
+	@include myButton;
+}
+
+.sixtysix {
+	@include myButton;
+}
+
+.sixtyseven {
+	@include myButton;
+}
+
+.sixtyeight {
+	@include myButton;
+}
+
+.sixtynine {
+	@include myButton;
+}
+
+.seventy {
+	@include myButton;
+}
+
+.seventyone {
+	@include myButton;
+}
+
+.seventytwo {
+	@include myButton;
+}
+
+.seventythree {
+	@include myButton;
+}
+
+.seventyfour {
+	@include myButton;
+}
+
+.seventyfive {
+	@include myButton;
+}
+
+.seventysix {
+	@include myButton;
+}
+
+.seventyseven {
+	@include myButton;
+}
+
+.seventyeight {
+	@include myButton;
+}
+
+.seventynine {
+	@include myButton;
+}
+
+.eighty {
+	@include myButton;
+}
+
+.eightyone {
+	@include myButton;
+}
+
+.eightytwo {
+	@include myButton;
+}
+
+.eightythree {
+	@include myButton;
+}
+
+.eightyfour {
+	@include myButton;
+}
+
+.eightyfive {
+	@include myButton;
+}
+
+.eightysix {
+	@include myButton;
+}
+
+.eightyseven {
+	@include myButton;
+}
+
+.eightyeight {
+	@include myButton;
+}
+
+.eightynine {
+	@include myButton;
+}
+
+.ninety {
+	@include myButton;
+}
+
+.ninetyone {
+	@include myButton;
+}
+
+.ninetytwo {
+	@include myButton;
+}
+
+.ninetythree {
+	@include myButton;
+}
+
+.ninetyfour {
+	@include myButton;
+}
+
+.ninetyfive {
+	@include myButton;
+}
+
+.ninetysix {
+	@include myButton;
+}
+
+.ninetyseven {
+	@include myButton;
+}
+
+.ninetyeight {
+	@include myButton;
+}
+
+.ninetynine {
+	@include myButton;
+}
+
+.onehundred {
+	@include myButton;
+}

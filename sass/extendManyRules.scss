@@ -1,0 +1,414 @@
+%myButton {
+	background-color: black;
+	color: white;
+	padding: 1em;
+	margin: 0;
+	display: block;
+	border-radius: 2px;
+	text-shadow: 0 0 2px rgba(0, 0, 0, .8);
+	box-shadow: 0 0 2px rgba(0, 0, 0, .2);
+	&:hover {
+		color: black;
+		background-color: white;
+	}
+}
+
+.one {
+	@extend %myButton;
+}
+
+.two {
+	@extend %myButton;
+}
+
+.three {
+	@extend %myButton;
+}
+
+.four {
+	@extend %myButton;
+}
+
+.five {
+	@extend %myButton;
+}
+
+.six {
+	@extend %myButton;
+}
+
+.seven {
+	@extend %myButton;
+}
+
+.eight {
+	@extend %myButton;
+}
+
+.nine {
+	@extend %myButton;
+}
+
+.ten {
+	@extend %myButton;
+}
+
+.eleven {
+	@extend %myButton;
+}
+
+.twelve {
+	@extend %myButton;
+}
+
+.thirteen {
+	@extend %myButton;
+}
+
+.fourteen {
+	@extend %myButton;
+}
+
+.fifteen {
+	@extend %myButton;
+}
+
+.sixteen {
+	@extend %myButton;
+}
+
+.seventeen {
+	@extend %myButton;
+}
+
+.eighteen {
+	@extend %myButton;
+}
+
+.nineteen {
+	@extend %myButton;
+}
+
+.twelve {
+	@extend %myButton;
+}
+
+.twentyone {
+	@extend %myButton;
+}
+
+.twentytwo {
+	@extend %myButton;
+}
+
+.twentythree {
+	@extend %myButton;
+}
+
+.twentyfour {
+	@extend %myButton;
+}
+
+.twentyfive {
+	@extend %myButton;
+}
+
+.twentysix {
+	@extend %myButton;
+}
+
+.twentyseven {
+	@extend %myButton;
+}
+
+.twentyeight {
+	@extend %myButton;
+}
+
+.twentynine {
+	@extend %myButton;
+}
+
+.thirty {
+	@extend %myButton;
+}
+
+.thirtyone {
+	@extend %myButton;
+}
+
+.thirtytwo {
+	@extend %myButton;
+}
+
+.thirtythree {
+	@extend %myButton;
+}
+
+.thirtyfour {
+	@extend %myButton;
+}
+
+.thirtyfive {
+	@extend %myButton;
+}
+
+.thirtysix {
+	@extend %myButton;
+}
+
+.thirtyseven {
+	@extend %myButton;
+}
+
+.thirtyeight {
+	@extend %myButton;
+}
+
+.thirtynine {
+	@extend %myButton;
+}
+
+.fourty {
+	@extend %myButton;
+}
+
+.fourtyone {
+	@extend %myButton;
+}
+
+.fourtytwo {
+	@extend %myButton;
+}
+
+.fourtythree {
+	@extend %myButton;
+}
+
+.fourtyfour {
+	@extend %myButton;
+}
+
+.fourtyfive {
+	@extend %myButton;
+}
+
+.fourtysix {
+	@extend %myButton;
+}
+
+.fourtyseven {
+	@extend %myButton;
+}
+
+.fourtyeight {
+	@extend %myButton;
+}
+
+.fourtynine {
+	@extend %myButton;
+}
+
+.fifty {
+	@extend %myButton;
+}
+
+.fiftyone {
+	@extend %myButton;
+}
+
+.fiftytwo {
+	@extend %myButton;
+}
+
+.fiftythree {
+	@extend %myButton;
+}
+
+.fiftyfour {
+	@extend %myButton;
+}
+
+.fiftyfive {
+	@extend %myButton;
+}
+
+.fiftysix {
+	@extend %myButton;
+}
+
+.fiftyseven {
+	@extend %myButton;
+}
+
+.fiftyeight {
+	@extend %myButton;
+}
+
+.fiftynine {
+	@extend %myButton;
+}
+
+.sixty {
+	@extend %myButton;
+}
+
+.sixtyone {
+	@extend %myButton;
+}
+
+.sixtytwo {
+	@extend %myButton;
+}
+
+.sixtythree {
+	@extend %myButton;
+}
+
+.sixtyfour {
+	@extend %myButton;
+}
+
+.sixtyfive {
+	@extend %myButton;
+}
+
+.sixtysix {
+	@extend %myButton;
+}
+
+.sixtyseven {
+	@extend %myButton;
+}
+
+.sixtyeight {
+	@extend %myButton;
+}
+
+.sixtynine {
+	@extend %myButton;
+}
+
+.seventy {
+	@extend %myButton;
+}
+
+.seventyone {
+	@extend %myButton;
+}
+
+.seventytwo {
+	@extend %myButton;
+}
+
+.seventythree {
+	@extend %myButton;
+}
+
+.seventyfour {
+	@extend %myButton;
+}
+
+.seventyfive {
+	@extend %myButton;
+}
+
+.seventysix {
+	@extend %myButton;
+}
+
+.seventyseven {
+	@extend %myButton;
+}
+
+.seventyeight {
+	@extend %myButton;
+}
+
+.seventynine {
+	@extend %myButton;
+}
+
+.eighty {
+	@extend %myButton;
+}
+
+.eightyone {
+	@extend %myButton;
+}
+
+.eightytwo {
+	@extend %myButton;
+}
+
+.eightythree {
+	@extend %myButton;
+}
+
+.eightyfour {
+	@extend %myButton;
+}
+
+.eightyfive {
+	@extend %myButton;
+}
+
+.eightysix {
+	@extend %myButton;
+}
+
+.eightyseven {
+	@extend %myButton;
+}
+
+.eightyeight {
+	@extend %myButton;
+}
+
+.eightynine {
+	@extend %myButton;
+}
+
+.ninety {
+	@extend %myButton;
+}
+
+.ninetyone {
+	@extend %myButton;
+}
+
+.ninetytwo {
+	@extend %myButton;
+}
+
+.ninetythree {
+	@extend %myButton;
+}
+
+.ninetyfour {
+	@extend %myButton;
+}
+
+.ninetyfive {
+	@extend %myButton;
+}
+
+.ninetysix {
+	@extend %myButton;
+}
+
+.ninetyseven {
+	@extend %myButton;
+}
+
+.ninetyeight {
+	@extend %myButton;
+}
+
+.ninetynine {
+	@extend %myButton;
+}
+
+.onehundred {
+	@extend %myButton;
+}

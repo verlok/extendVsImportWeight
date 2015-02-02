@@ -1,199 +1,299 @@
 .one { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.one:hover { color: black; background-color: white; }
 
 .two { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.two:hover { color: black; background-color: white; }
 
 .three { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.three:hover { color: black; background-color: white; }
 
 .four { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.four:hover { color: black; background-color: white; }
 
 .five { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.five:hover { color: black; background-color: white; }
 
 .six { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.six:hover { color: black; background-color: white; }
 
 .seven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seven:hover { color: black; background-color: white; }
 
 .eight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eight:hover { color: black; background-color: white; }
 
 .nine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.nine:hover { color: black; background-color: white; }
 
 .ten { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ten:hover { color: black; background-color: white; }
 
 .eleven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eleven:hover { color: black; background-color: white; }
 
 .twelve { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twelve:hover { color: black; background-color: white; }
 
 .thirteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirteen:hover { color: black; background-color: white; }
 
 .fourteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourteen:hover { color: black; background-color: white; }
 
 .fifteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fifteen:hover { color: black; background-color: white; }
 
 .sixteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixteen:hover { color: black; background-color: white; }
 
 .seventeen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventeen:hover { color: black; background-color: white; }
 
 .eighteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eighteen:hover { color: black; background-color: white; }
 
 .nineteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.nineteen:hover { color: black; background-color: white; }
 
 .twelve { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twelve:hover { color: black; background-color: white; }
 
 .twentyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentyone:hover { color: black; background-color: white; }
 
 .twentytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentytwo:hover { color: black; background-color: white; }
 
 .twentythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentythree:hover { color: black; background-color: white; }
 
 .twentyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentyfour:hover { color: black; background-color: white; }
 
 .twentyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentyfive:hover { color: black; background-color: white; }
 
 .twentysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentysix:hover { color: black; background-color: white; }
 
 .twentyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentyseven:hover { color: black; background-color: white; }
 
 .twentyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentyeight:hover { color: black; background-color: white; }
 
 .twentynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twentynine:hover { color: black; background-color: white; }
 
 .thirty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirty:hover { color: black; background-color: white; }
 
 .thirtyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtyone:hover { color: black; background-color: white; }
 
 .thirtytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtytwo:hover { color: black; background-color: white; }
 
 .thirtythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtythree:hover { color: black; background-color: white; }
 
 .thirtyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtyfour:hover { color: black; background-color: white; }
 
 .thirtyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtyfive:hover { color: black; background-color: white; }
 
 .thirtysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtysix:hover { color: black; background-color: white; }
 
 .thirtyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtyseven:hover { color: black; background-color: white; }
 
 .thirtyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtyeight:hover { color: black; background-color: white; }
 
 .thirtynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.thirtynine:hover { color: black; background-color: white; }
 
 .fourty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourty:hover { color: black; background-color: white; }
 
 .fourtyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtyone:hover { color: black; background-color: white; }
 
 .fourtytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtytwo:hover { color: black; background-color: white; }
 
 .fourtythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtythree:hover { color: black; background-color: white; }
 
 .fourtyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtyfour:hover { color: black; background-color: white; }
 
 .fourtyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtyfive:hover { color: black; background-color: white; }
 
 .fourtysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtysix:hover { color: black; background-color: white; }
 
 .fourtyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtyseven:hover { color: black; background-color: white; }
 
 .fourtyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtyeight:hover { color: black; background-color: white; }
 
 .fourtynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fourtynine:hover { color: black; background-color: white; }
 
 .fifty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fifty:hover { color: black; background-color: white; }
 
 .fiftyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftyone:hover { color: black; background-color: white; }
 
 .fiftytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftytwo:hover { color: black; background-color: white; }
 
 .fiftythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftythree:hover { color: black; background-color: white; }
 
 .fiftyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftyfour:hover { color: black; background-color: white; }
 
 .fiftyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftyfive:hover { color: black; background-color: white; }
 
 .fiftysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftysix:hover { color: black; background-color: white; }
 
 .fiftyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftyseven:hover { color: black; background-color: white; }
 
 .fiftyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftyeight:hover { color: black; background-color: white; }
 
 .fiftynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.fiftynine:hover { color: black; background-color: white; }
 
 .sixty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixty:hover { color: black; background-color: white; }
 
 .sixtyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtyone:hover { color: black; background-color: white; }
 
 .sixtytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtytwo:hover { color: black; background-color: white; }
 
 .sixtythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtythree:hover { color: black; background-color: white; }
 
 .sixtyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtyfour:hover { color: black; background-color: white; }
 
 .sixtyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtyfive:hover { color: black; background-color: white; }
 
 .sixtysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtysix:hover { color: black; background-color: white; }
 
 .sixtyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtyseven:hover { color: black; background-color: white; }
 
 .sixtyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtyeight:hover { color: black; background-color: white; }
 
 .sixtynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.sixtynine:hover { color: black; background-color: white; }
 
 .seventy { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventy:hover { color: black; background-color: white; }
 
 .seventyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventyone:hover { color: black; background-color: white; }
 
 .seventytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventytwo:hover { color: black; background-color: white; }
 
 .seventythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventythree:hover { color: black; background-color: white; }
 
 .seventyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventyfour:hover { color: black; background-color: white; }
 
 .seventyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventyfive:hover { color: black; background-color: white; }
 
 .seventysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventysix:hover { color: black; background-color: white; }
 
 .seventyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventyseven:hover { color: black; background-color: white; }
 
 .seventyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventyeight:hover { color: black; background-color: white; }
 
 .seventynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.seventynine:hover { color: black; background-color: white; }
 
 .eighty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eighty:hover { color: black; background-color: white; }
 
 .eightyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightyone:hover { color: black; background-color: white; }
 
 .eightytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightytwo:hover { color: black; background-color: white; }
 
 .eightythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightythree:hover { color: black; background-color: white; }
 
 .eightyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightyfour:hover { color: black; background-color: white; }
 
 .eightyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightyfive:hover { color: black; background-color: white; }
 
 .eightysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightysix:hover { color: black; background-color: white; }
 
 .eightyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightyseven:hover { color: black; background-color: white; }
 
 .eightyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightyeight:hover { color: black; background-color: white; }
 
 .eightynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eightynine:hover { color: black; background-color: white; }
 
 .ninety { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninety:hover { color: black; background-color: white; }
 
 .ninetyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetyone:hover { color: black; background-color: white; }
 
 .ninetytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetytwo:hover { color: black; background-color: white; }
 
 .ninetythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetythree:hover { color: black; background-color: white; }
 
 .ninetyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetyfour:hover { color: black; background-color: white; }
 
 .ninetyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetyfive:hover { color: black; background-color: white; }
 
 .ninetysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetysix:hover { color: black; background-color: white; }
 
 .ninetyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetyseven:hover { color: black; background-color: white; }
 
 .ninetyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetyeight:hover { color: black; background-color: white; }
 
 .ninetynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.ninetynine:hover { color: black; background-color: white; }
 
 .onehundred { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.onehundred:hover { color: black; background-color: white; }

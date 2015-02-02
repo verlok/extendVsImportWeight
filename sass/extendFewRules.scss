@@ -1,0 +1,411 @@
+%microClearfix {
+	&:before,
+	&:after {
+		content: " ";
+		display: table;
+	}
+
+	&:after {
+		clear: both;
+	}
+}
+
+.one {
+	@extend %microClearfix;
+}
+
+.two {
+	@extend %microClearfix;
+}
+
+.three {
+	@extend %microClearfix;
+}
+
+.four {
+	@extend %microClearfix;
+}
+
+.five {
+	@extend %microClearfix;
+}
+
+.six {
+	@extend %microClearfix;
+}
+
+.seven {
+	@extend %microClearfix;
+}
+
+.eight {
+	@extend %microClearfix;
+}
+
+.nine {
+	@extend %microClearfix;
+}
+
+.ten {
+	@extend %microClearfix;
+}
+
+.eleven {
+	@extend %microClearfix;
+}
+
+.twelve {
+	@extend %microClearfix;
+}
+
+.thirteen {
+	@extend %microClearfix;
+}
+
+.fourteen {
+	@extend %microClearfix;
+}
+
+.fifteen {
+	@extend %microClearfix;
+}
+
+.sixteen {
+	@extend %microClearfix;
+}
+
+.seventeen {
+	@extend %microClearfix;
+}
+
+.eighteen {
+	@extend %microClearfix;
+}
+
+.nineteen {
+	@extend %microClearfix;
+}
+
+.twelve {
+	@extend %microClearfix;
+}
+
+.twentyone {
+	@extend %microClearfix;
+}
+
+.twentytwo {
+	@extend %microClearfix;
+}
+
+.twentythree {
+	@extend %microClearfix;
+}
+
+.twentyfour {
+	@extend %microClearfix;
+}
+
+.twentyfive {
+	@extend %microClearfix;
+}
+
+.twentysix {
+	@extend %microClearfix;
+}
+
+.twentyseven {
+	@extend %microClearfix;
+}
+
+.twentyeight {
+	@extend %microClearfix;
+}
+
+.twentynine {
+	@extend %microClearfix;
+}
+
+.thirty {
+	@extend %microClearfix;
+}
+
+.thirtyone {
+	@extend %microClearfix;
+}
+
+.thirtytwo {
+	@extend %microClearfix;
+}
+
+.thirtythree {
+	@extend %microClearfix;
+}
+
+.thirtyfour {
+	@extend %microClearfix;
+}
+
+.thirtyfive {
+	@extend %microClearfix;
+}
+
+.thirtysix {
+	@extend %microClearfix;
+}
+
+.thirtyseven {
+	@extend %microClearfix;
+}
+
+.thirtyeight {
+	@extend %microClearfix;
+}
+
+.thirtynine {
+	@extend %microClearfix;
+}
+
+.fourty {
+	@extend %microClearfix;
+}
+
+.fourtyone {
+	@extend %microClearfix;
+}
+
+.fourtytwo {
+	@extend %microClearfix;
+}
+
+.fourtythree {
+	@extend %microClearfix;
+}
+
+.fourtyfour {
+	@extend %microClearfix;
+}
+
+.fourtyfive {
+	@extend %microClearfix;
+}
+
+.fourtysix {
+	@extend %microClearfix;
+}
+
+.fourtyseven {
+	@extend %microClearfix;
+}
+
+.fourtyeight {
+	@extend %microClearfix;
+}
+
+.fourtynine {
+	@extend %microClearfix;
+}
+
+.fifty {
+	@extend %microClearfix;
+}
+
+.fiftyone {
+	@extend %microClearfix;
+}
+
+.fiftytwo {
+	@extend %microClearfix;
+}
+
+.fiftythree {
+	@extend %microClearfix;
+}
+
+.fiftyfour {
+	@extend %microClearfix;
+}
+
+.fiftyfive {
+	@extend %microClearfix;
+}
+
+.fiftysix {
+	@extend %microClearfix;
+}
+
+.fiftyseven {
+	@extend %microClearfix;
+}
+
+.fiftyeight {
+	@extend %microClearfix;
+}
+
+.fiftynine {
+	@extend %microClearfix;
+}
+
+.sixty {
+	@extend %microClearfix;
+}
+
+.sixtyone {
+	@extend %microClearfix;
+}
+
+.sixtytwo {
+	@extend %microClearfix;
+}
+
+.sixtythree {
+	@extend %microClearfix;
+}
+
+.sixtyfour {
+	@extend %microClearfix;
+}
+
+.sixtyfive {
+	@extend %microClearfix;
+}
+
+.sixtysix {
+	@extend %microClearfix;
+}
+
+.sixtyseven {
+	@extend %microClearfix;
+}
+
+.sixtyeight {
+	@extend %microClearfix;
+}
+
+.sixtynine {
+	@extend %microClearfix;
+}
+
+.seventy {
+	@extend %microClearfix;
+}
+
+.seventyone {
+	@extend %microClearfix;
+}
+
+.seventytwo {
+	@extend %microClearfix;
+}
+
+.seventythree {
+	@extend %microClearfix;
+}
+
+.seventyfour {
+	@extend %microClearfix;
+}
+
+.seventyfive {
+	@extend %microClearfix;
+}
+
+.seventysix {
+	@extend %microClearfix;
+}
+
+.seventyseven {
+	@extend %microClearfix;
+}
+
+.seventyeight {
+	@extend %microClearfix;
+}
+
+.seventynine {
+	@extend %microClearfix;
+}
+
+.eighty {
+	@extend %microClearfix;
+}
+
+.eightyone {
+	@extend %microClearfix;
+}
+
+.eightytwo {
+	@extend %microClearfix;
+}
+
+.eightythree {
+	@extend %microClearfix;
+}
+
+.eightyfour {
+	@extend %microClearfix;
+}
+
+.eightyfive {
+	@extend %microClearfix;
+}
+
+.eightysix {
+	@extend %microClearfix;
+}
+
+.eightyseven {
+	@extend %microClearfix;
+}
+
+.eightyeight {
+	@extend %microClearfix;
+}
+
+.eightynine {
+	@extend %microClearfix;
+}
+
+.ninety {
+	@extend %microClearfix;
+}
+
+.ninetyone {
+	@extend %microClearfix;
+}
+
+.ninetytwo {
+	@extend %microClearfix;
+}
+
+.ninetythree {
+	@extend %microClearfix;
+}
+
+.ninetyfour {
+	@extend %microClearfix;
+}
+
+.ninetyfive {
+	@extend %microClearfix;
+}
+
+.ninetysix {
+	@extend %microClearfix;
+}
+
+.ninetyseven {
+	@extend %microClearfix;
+}
+
+.ninetyeight {
+	@extend %microClearfix;
+}
+
+.ninetynine {
+	@extend %microClearfix;
+}
+
+.onehundred {
+	@extend %microClearfix;
+}

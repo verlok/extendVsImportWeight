@@ -1,0 +1,411 @@
+@mixin microClearfix {
+	&:before,
+	&:after {
+		content: " ";
+		display: table;
+	}
+
+	&:after {
+		clear: both;
+	}
+}
+
+.one {
+	@include microClearfix;
+}
+
+.two {
+	@include microClearfix;
+}
+
+.three {
+	@include microClearfix;
+}
+
+.four {
+	@include microClearfix;
+}
+
+.five {
+	@include microClearfix;
+}
+
+.six {
+	@include microClearfix;
+}
+
+.seven {
+	@include microClearfix;
+}
+
+.eight {
+	@include microClearfix;
+}
+
+.nine {
+	@include microClearfix;
+}
+
+.ten {
+	@include microClearfix;
+}
+
+.eleven {
+	@include microClearfix;
+}
+
+.twelve {
+	@include microClearfix;
+}
+
+.thirteen {
+	@include microClearfix;
+}
+
+.fourteen {
+	@include microClearfix;
+}
+
+.fifteen {
+	@include microClearfix;
+}
+
+.sixteen {
+	@include microClearfix;
+}
+
+.seventeen {
+	@include microClearfix;
+}
+
+.eighteen {
+	@include microClearfix;
+}
+
+.nineteen {
+	@include microClearfix;
+}
+
+.twelve {
+	@include microClearfix;
+}
+
+.twentyone {
+	@include microClearfix;
+}
+
+.twentytwo {
+	@include microClearfix;
+}
+
+.twentythree {
+	@include microClearfix;
+}
+
+.twentyfour {
+	@include microClearfix;
+}
+
+.twentyfive {
+	@include microClearfix;
+}
+
+.twentysix {
+	@include microClearfix;
+}
+
+.twentyseven {
+	@include microClearfix;
+}
+
+.twentyeight {
+	@include microClearfix;
+}
+
+.twentynine {
+	@include microClearfix;
+}
+
+.thirty {
+	@include microClearfix;
+}
+
+.thirtyone {
+	@include microClearfix;
+}
+
+.thirtytwo {
+	@include microClearfix;
+}
+
+.thirtythree {
+	@include microClearfix;
+}
+
+.thirtyfour {
+	@include microClearfix;
+}
+
+.thirtyfive {
+	@include microClearfix;
+}
+
+.thirtysix {
+	@include microClearfix;
+}
+
+.thirtyseven {
+	@include microClearfix;
+}
+
+.thirtyeight {
+	@include microClearfix;
+}
+
+.thirtynine {
+	@include microClearfix;
+}
+
+.fourty {
+	@include microClearfix;
+}
+
+.fourtyone {
+	@include microClearfix;
+}
+
+.fourtytwo {
+	@include microClearfix;
+}
+
+.fourtythree {
+	@include microClearfix;
+}
+
+.fourtyfour {
+	@include microClearfix;
+}
+
+.fourtyfive {
+	@include microClearfix;
+}
+
+.fourtysix {
+	@include microClearfix;
+}
+
+.fourtyseven {
+	@include microClearfix;
+}
+
+.fourtyeight {
+	@include microClearfix;
+}
+
+.fourtynine {
+	@include microClearfix;
+}
+
+.fifty {
+	@include microClearfix;
+}
+
+.fiftyone {
+	@include microClearfix;
+}
+
+.fiftytwo {
+	@include microClearfix;
+}
+
+.fiftythree {
+	@include microClearfix;
+}
+
+.fiftyfour {
+	@include microClearfix;
+}
+
+.fiftyfive {
+	@include microClearfix;
+}
+
+.fiftysix {
+	@include microClearfix;
+}
+
+.fiftyseven {
+	@include microClearfix;
+}
+
+.fiftyeight {
+	@include microClearfix;
+}
+
+.fiftynine {
+	@include microClearfix;
+}
+
+.sixty {
+	@include microClearfix;
+}
+
+.sixtyone {
+	@include microClearfix;
+}
+
+.sixtytwo {
+	@include microClearfix;
+}
+
+.sixtythree {
+	@include microClearfix;
+}
+
+.sixtyfour {
+	@include microClearfix;
+}
+
+.sixtyfive {
+	@include microClearfix;
+}
+
+.sixtysix {
+	@include microClearfix;
+}
+
+.sixtyseven {
+	@include microClearfix;
+}
+
+.sixtyeight {
+	@include microClearfix;
+}
+
+.sixtynine {
+	@include microClearfix;
+}
+
+.seventy {
+	@include microClearfix;
+}
+
+.seventyone {
+	@include microClearfix;
+}
+
+.seventytwo {
+	@include microClearfix;
+}
+
+.seventythree {
+	@include microClearfix;
+}
+
+.seventyfour {
+	@include microClearfix;
+}
+
+.seventyfive {
+	@include microClearfix;
+}
+
+.seventysix {
+	@include microClearfix;
+}
+
+.seventyseven {
+	@include microClearfix;
+}
+
+.seventyeight {
+	@include microClearfix;
+}
+
+.seventynine {
+	@include microClearfix;
+}
+
+.eighty {
+	@include microClearfix;
+}
+
+.eightyone {
+	@include microClearfix;
+}
+
+.eightytwo {
+	@include microClearfix;
+}
+
+.eightythree {
+	@include microClearfix;
+}
+
+.eightyfour {
+	@include microClearfix;
+}
+
+.eightyfive {
+	@include microClearfix;
+}
+
+.eightysix {
+	@include microClearfix;
+}
+
+.eightyseven {
+	@include microClearfix;
+}
+
+.eightyeight {
+	@include microClearfix;
+}
+
+.eightynine {
+	@include microClearfix;
+}
+
+.ninety {
+	@include microClearfix;
+}
+
+.ninetyone {
+	@include microClearfix;
+}
+
+.ninetytwo {
+	@include microClearfix;
+}
+
+.ninetythree {
+	@include microClearfix;
+}
+
+.ninetyfour {
+	@include microClearfix;
+}
+
+.ninetyfive {
+	@include microClearfix;
+}
+
+.ninetysix {
+	@include microClearfix;
+}
+
+.ninetyseven {
+	@include microClearfix;
+}
+
+.ninetyeight {
+	@include microClearfix;
+}
+
+.ninetynine {
+	@include microClearfix;
+}
+
+.onehundred {
+	@include microClearfix;
+}
