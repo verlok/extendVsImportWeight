@@ -18,6 +18,182 @@
 
 .ten { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
 
-.ninetyNine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.eleven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
 
-.oneHundred { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+.twelve { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fifteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventeen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eighteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.nineteen { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twelve { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.twentynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.thirtynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fourtynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fifty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.fiftynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.sixtynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventy { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.seventynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eighty { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.eightynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninety { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetyone { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetytwo { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetythree { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetyfour { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetyfive { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetysix { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetyseven { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetyeight { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.ninetynine { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
+
+.onehundred { background-color: black; color: white; padding: 1em; margin: 0; display: block; border-radius: 2px; text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); box-shadow: 0 0 2px rgba(0, 0, 0, 0.2); }
