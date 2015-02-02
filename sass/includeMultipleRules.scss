@@ -1,0 +1,58 @@
+@mixin floatMeLeft {
+  background-color: black;
+  color: white;
+  padding: 1em;
+  margin: 0;
+  display: block;
+  border-radius: 2px;
+  text-shadow: 0 0 2px rgba(0,0,0,.8);
+  box-shadow: 0 0 2px rgba(0,0,0,.2);
+}
+
+.one {
+  @include floatMeLeft;
+}
+
+.two {
+  @include floatMeLeft;
+}
+
+.three {
+  @include floatMeLeft;
+}
+
+.four {
+  @include floatMeLeft;
+}
+
+.five {
+  @include floatMeLeft;
+}
+
+.six {
+  @include floatMeLeft;
+}
+
+.seven {
+  @include floatMeLeft;
+}
+
+.eight {
+  @include floatMeLeft;
+}
+
+.nine {
+  @include floatMeLeft;
+}
+
+.ten {
+  @include floatMeLeft;
+}
+
+.ninetyNine {
+  @include floatMeLeft;
+}
+
+.oneHundred {
+  @include floatMeLeft;
+}

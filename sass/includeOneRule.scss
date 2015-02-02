@@ -1,0 +1,51 @@
+@mixin floatMeLeft {
+  float: left;
+}
+
+.one {
+  @include floatMeLeft;
+}
+
+.two {
+  @include floatMeLeft;
+}
+
+.three {
+  @include floatMeLeft;
+}
+
+.four {
+  @include floatMeLeft;
+}
+
+.five {
+  @include floatMeLeft;
+}
+
+.six {
+  @include floatMeLeft;
+}
+
+.seven {
+  @include floatMeLeft;
+}
+
+.eight {
+  @include floatMeLeft;
+}
+
+.nine {
+  @include floatMeLeft;
+}
+
+.ten {
+  @include floatMeLeft;
+}
+
+.ninetyNine {
+  @include floatMeLeft;
+}
+
+.oneHundred {
+  @include floatMeLeft;
+}

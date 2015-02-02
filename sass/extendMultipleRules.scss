@@ -1,0 +1,58 @@
+%floatMeLeft {
+  background-color: black;
+  color: white;
+  padding: 1em;
+  margin: 0;
+  display: block;
+  border-radius: 2px;
+  text-shadow: 0 0 2px rgba(0,0,0,.8);
+  box-shadow: 0 0 2px rgba(0,0,0,.2);
+}
+
+.one {
+  @extend %floatMeLeft;
+}
+
+.two {
+  @extend %floatMeLeft;
+}
+
+.three {
+  @extend %floatMeLeft;
+}
+
+.four {
+  @extend %floatMeLeft;
+}
+
+.five {
+  @extend %floatMeLeft;
+}
+
+.six {
+  @extend %floatMeLeft;
+}
+
+.seven {
+  @extend %floatMeLeft;
+}
+
+.eight {
+  @extend %floatMeLeft;
+}
+
+.nine {
+  @extend %floatMeLeft;
+}
+
+.ten {
+  @extend %floatMeLeft;
+}
+
+.ninetyNine {
+  @extend %floatMeLeft;
+}
+
+.oneHundred {
+  @extend %floatMeLeft;
+}
