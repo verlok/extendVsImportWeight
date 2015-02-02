@@ -190,7 +190,7 @@ This repo compares extend vs import, in both cases: single CSS rule and many CSS
 * Using `@include` for many rules generates a **1.29 times bigger** file, compared to `@extend`
 * Using `@include` for a single rule generates a **1.13 times bigger** file, compared to `@extend`
 
-## What front-end developers do
+## What should front-end developers do
 
 Due to [`@extend` limits with media queries](http://css-tricks.com/the-extend-concept/), using `@import` can be easier, BUT when using `@import` you should consider file weight and browser computing time.
 
